@@ -1,0 +1,18 @@
+VCV: VCV Free (https://vcvrack.com/Free)
+    ADSR EG
+    VCA Mix
+VCV: VCV Core
+    Audio 2
+    MIDI to CV
+Surge XT: Surge XT (https://surge-synthesizer.github.io/)
+    VCF
+chowdsp: ChowDSP (https://github.com/jatinchowdhury18/ChowDSP-VCV)
+    Credit
+Bogaudio: Bogaudio (https://github.com/bogaudio/BogaudioModules/blob/master/README.md)
+    LMTR
+    REFTONE
+Befaco: Befaco (https://vcvrack.com/Befaco)
+    Dual Atenuverter
+Audible Instruments: Audible Instruments (https://vcvrack.com/AudibleInstruments)
+    EQ Filter
+    Macro Oscillator 2
